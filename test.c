@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*int f(int a,int b)
 {
-	//int a=6,b=3;
+	int a=6,b=3;
 	if(a<b)
 		return (a,b);
 	else 
